@@ -15,7 +15,7 @@ namespace Hi
             }
             else if (choice == "y")
             {
-                Console.WriteLine("gefeliciteerd ik hou van je");
+                Console.WriteLine("gefelicditeerd ik hou van je");
             }
         }
     }
